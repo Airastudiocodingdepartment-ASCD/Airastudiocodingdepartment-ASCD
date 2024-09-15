@@ -1,4 +1,4 @@
-We're coding department from Aira stuio and Aira project
+We're coding department from Aira stuio and Aira Vtuber project
 
 About Aira studio Coding department or ASCD was founded by Aira or our CEO. 
 The purpose of the establishment is to help the work in Aira studio and Aira project
@@ -10,9 +10,9 @@ It originally came from the artist's pen name in founder group
 and we're artist/animeter/2D 3D rigger/3d modeling/coding/designer group
 our main work of studio is making animetion
 
-About Aira project, Aira project is a project under Aira studio that will gather Vtubers with various personalities and styles.
+About Aira Vtuber project, Aira project is a project under Aira studio that will gather Vtubers with various personalities and styles.
 In this project, we focus on creating fun, emotion, and sadness through original songs and live streaming.
 We hope you will find a Vtuber that you like.
 
-- ©2024 Aira sudio / Aira studio coding Department
-- ©2024 Aira project / Aira studio coding Department
+- ©2024 Aira studio coding Department / Aira sudio
+- ©2024 Aira studio coding Department / Aira Vtuber project
